@@ -10,4 +10,8 @@
     "@vercel/functions": "^2.2.0",
     "pg": "^8.13.1"
   }
+  {
+  "engines": {
+    "node": "20.x"
+  }
 }
